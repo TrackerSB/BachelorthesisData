@@ -1,0 +1,18 @@
+[submodule "polli"]
+	path = polli
+	url = https://github.com/PolyJIT/polli
+[submodule "benchbuild"]
+	path = benchbuild
+	url = https://github.com/PolyJIT/benchbuild
+[submodule "polly"]
+	path = polly
+	url = https://github.com/PolyJIT/polly
+[submodule "clang"]
+	path = clang
+	url = https://github.com/PolyJIT/clang
+[submodule "llvm"]
+	path = llvm
+	url = https://github.com/PolyJIT/llvm
+[submodule "Bachelorarbeit"]
+	path = Bachelorarbeit
+	url = https://github.com/TrackerSB/Bachelorarbeit
